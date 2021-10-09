@@ -319,7 +319,7 @@ body{
     width: 30px;
     background-color: #e2f761;
     position: absolute;
-    top: 260px;
+    top: 263px;
     right: 370px; /*calc(55% - 10px);*/
     clip-path: polygon(0% 0%, 100% 100%, 0% 100%);
     transform: rotate(-135deg);
