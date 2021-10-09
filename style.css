@@ -192,6 +192,11 @@ body{
     z-index: 3;
 }
 
+.l-triangle:hover{
+	background-color: #ff5e39;
+
+}
+
 .letter-o{
 	position: relative;
 	left: 150px;
@@ -244,6 +249,11 @@ body{
     transform: rotate(-225deg);
     border-radius: 0.25em 0.25em 0.25em 0.25em;
     z-index: 2;
+}
+
+.v-triangle:hover{
+	background-color: #ff5e39;
+
 }
 
 .v-stroke{
@@ -317,7 +327,10 @@ body{
     z-index: 4;
 }
 
+.e-triangle:hover{
+	background-color: #ff5e39;
 
+}
 
 #big-column{
 	width: 100%;
