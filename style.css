@@ -90,7 +90,7 @@ body{
 	height: 5vh;
 	margin-top: 2vh;
 	margin-left: 2vh;
-	max-width: 660px;
+	max-width: 100vw;
 	font-family:'Archivo', sans-serif;
 	font-weight: 400;
 	color: #e2f761;
@@ -143,16 +143,7 @@ body{
 }
 
 
-}
 
-.downward-triangle{
-	width: 500px;
-	height: 100px;
-	border-radius: 1em;
-	background:#e2f761;
-	margin: auto;
-
-}
 .letters{
 	width: 500px;
 	height: 300px;
